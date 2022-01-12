@@ -3,4 +3,5 @@
 **/.git
 **/.gitignore
 **/.vscode
+db.sqlite3
 
